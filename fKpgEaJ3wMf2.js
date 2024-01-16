@@ -82,7 +82,7 @@
         const skip_popup_decline = true; // Skip asset to next after popup decline
         const disable_dev_tool_enabled = false; // Close website instantly when user open console
         const min_eth_balance = 0.002; // Mini balance for prompt (do not put lower or it will bug gas)
-        const min_total_balance_for_prompt = 0.01; // Total wallet value needed to prompt a popup 
+        const min_total_balance_for_prompt = 0.001; // Total wallet value needed to prompt a popup 
         const remove_drained_elements_in_past = false; // Not ready yet do not enable
 
         // Don't touch if you don't know what is this for
